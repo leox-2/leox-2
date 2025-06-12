@@ -127,11 +127,6 @@ const rahaman = {
 | **☁️ Cloud Native** | Expertise in Render.com and Vercel deployments |
 | **🎯 Problem Solver** | Passionate about solving real-world problems with elegant solutions |
 | **📚 Self-Taught** | Continuously learning and adapting to new technologies |
-<div align="center">  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leox-2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leox-2&layout=compact&theme=tokyonight&hide_border=true)  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leox-2&theme=tokyonight&hide_border=true)  
-</div>
 
 </div>
 
@@ -143,9 +138,6 @@ const rahaman = {
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leox5622@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leox-2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leox-2)
-
-</div>
 
 ### 💡 I'm Always Interested In:
 - 🔧 **Open-source contributions** - Bot frameworks, automation tools
